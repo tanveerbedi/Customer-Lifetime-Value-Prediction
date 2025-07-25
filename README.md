@@ -4,10 +4,6 @@
 > 👤 Developed by **Tanveer Singh**
 > 🚀 Predicting Customer Lifetime Value using Machine Learning
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/project-active-brightgreen)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-
 ---
 
 ## 📌 Overview
